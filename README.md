@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @das-dipankar
-- 👀 I’m interested in EmbeddedSystems
+- 👀 I’m interested in Software Systems
 - 🌱 I’m currently learning OS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
